@@ -1,0 +1,9 @@
+well,role,label,concentration,timepoint
+A1,standard,A,0,
+B1,standard,B,45.4,
+C1,standard,C,146.2,
+D1,standard,D,330.6,
+E1,standard,E,571.4,
+F1,standard,F,880,
+A2,sample,PATIENT_ID_HERE,,Pre
+B2,sample,PATIENT_ID_HERE,,Post
